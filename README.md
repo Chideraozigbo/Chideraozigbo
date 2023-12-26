@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello, I'm [Chidera Ozigbo], a passionate and detail-oriented Data Engineer with a love for transforming raw data into meaningful insights. My journey in the world of data involves designing robust data architectures, developing efficient ETL pipelines, and leveraging advanced analytics to drive informed decision-making.
+👋 Hello, I'm Chidera Ozigbo, a passionate and detail-oriented Data Engineer with a love for transforming raw data into meaningful insights. My journey in the world of data involves designing robust data architectures, developing efficient ETL pipelines, and leveraging advanced analytics to drive informed decision-making.
 
 ## 🚀 What I Do
 
