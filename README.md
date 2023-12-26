@@ -38,6 +38,15 @@ Happy coding! 🚀
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# My Medium Articles
+
+[![Database Design I: Employee Attrition Management System](https://miro.medium.com/max/1400/1*r1vMiaqFJytCPM5DA93HSg.png)](https://medium.com/@chideraozigbo/database-design-i-employee-attrition-management-system-25d89503c08b)
+
+[![How to Import Data into a Database Using MYSQL Command Line](https://miro.medium.com/max/1400/1*qdOidhF4ZglUzU3IToEJdQ.png)](https://medium.com/@chideraozigbo/how-to-import-data-into-a-table-in-a-database-using-mysql-command-line-and-solve-all-error-problems-89d2f9202300)
+
+[![Data Analyst vs. Data Scientist: Understanding the Differences and Overlaps](https://miro.medium.com/max/1400/1*4PNOhXmrpnhl-S79MNFA3w.png)](https://medium.com/@chideraozigbo/data-analyst-vs-data-scientist-understanding-the-differences-and-overlaps-9511d8e8a9a0)
+
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
