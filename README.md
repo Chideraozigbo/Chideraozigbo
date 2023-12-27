@@ -1,56 +1,43 @@
-# About Me
+<h1 align="center">Hi 👋, I'm Chidera Ozigbo</h1>
+<h3 align="center">A passionate Data Engineer and Database Designer</h3>
 
-👋 Hello, I'm Chidera Ozigbo, a passionate and detail-oriented Data Engineer with a love for transforming raw data into meaningful insights. My journey in the world of data involves designing robust data architectures, developing efficient ETL pipelines, and leveraging advanced analytics to drive informed decision-making.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chideraozigbo&label=Profile%20views&color=0e75b6&style=flat" alt="chideraozigbo" /> </p>
 
-## 🚀 What I Do
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chideraozigbo" alt="chideraozigbo" /></a> </p>
 
-- **Data Architecture:** Crafting scalable and efficient data architectures that form the backbone of data ecosystems.
-- **ETL Pipelines:** Designing and implementing Extract, Transform, Load (ETL) processes to ensure seamless data flow.
-- **Big Data Technologies:** Proficient in working with big data tools and technologies, such as Apache Spark and Hadoop.
-- **Data Modeling:** Developing logical and physical data models to organize and represent complex datasets.
-- **Database Management:** Experience in managing and optimizing databases for performance and reliability.
+- 🔭 I’m currently working on **Real time and Batch Stream ETL projects**
 
-## 💡 Why Data Engineering?
+- 🌱 I’m currently learning **Python, Data Warehouse and Data Lakes**
 
-I believe in the power of data to drive meaningful insights and foster informed decision-making. As a data engineer, I thrive on the challenges of working with diverse datasets, transforming raw information into valuable assets, and contributing to the foundation of data-driven solutions.
+- 👯 I’m looking to collaborate on **Database Designer and ETL pipeline projects**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Chideraozigbo?tab=repositories](https://github.com/Chideraozigbo?tab=repositories)
 
-Happy coding! 🚀
+- 📝 I regularly write articles on [https://medium.com/@chideraozigbo](https://medium.com/@chideraozigbo)
 
+- 💬 Ask me about **Python, Database.**
 
+- 📫 How to reach me **chideraozigbo@gmail.com**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chidera-ozigbo/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chideraozigbo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OzigboChidera) 
+- 📄 Know about my experiences [https://medium.com/@chideraozigbo](https://medium.com/@chideraozigbo)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chideraozigbo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chideraozigbo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chideraozigbo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- ⚡ Fun fact **I love playing games and singing. lol**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chideraozigbo&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ozigbochidera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozigbochidera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chideraozigbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chideraozigbo" height="30" width="40" /></a>
+<a href="https://medium.com/@chideraozigbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chideraozigbo" height="30" width="40" /></a>
+</p>
 
-# My Medium Articles
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-[![Database Design I: Employee Attrition Management System](https://miro.medium.com/max/1400/1*r1vMiaqFJytCPM5DA93HSg.png)](https://medium.com/@chideraozigbo/database-design-i-employee-attrition-management-system-25d89503c08b)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chideraozigbo&show_icons=true&locale=en&layout=compact" alt="chideraozigbo" /></p>
 
-[![How to Import Data into a Database Using MYSQL Command Line](https://miro.medium.com/max/1400/1*qdOidhF4ZglUzU3IToEJdQ.png)](https://medium.com/@chideraozigbo/how-to-import-data-into-a-table-in-a-database-using-mysql-command-line-and-solve-all-error-problems-89d2f9202300)
-
-[![Data Analyst vs. Data Scientist: Understanding the Differences and Overlaps](https://miro.medium.com/max/1400/1*4PNOhXmrpnhl-S79MNFA3w.png)](https://medium.com/@chideraozigbo/data-analyst-vs-data-scientist-understanding-the-differences-and-overlaps-9511d8e8a9a0)
-
-
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Chideraozigbo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chideraozigbo&show_icons=true&locale=en" alt="chideraozigbo" /></p>
 
