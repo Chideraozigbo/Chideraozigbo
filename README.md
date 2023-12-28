@@ -7,17 +7,18 @@ A Data Engineer || Database Designer
 Currently a final year student of Computer Science from the University of Nigeria, Nsukka. With a kink for data and how it helps us make informed decisions.
 
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Heroes_Series.gif"><br>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm"><br>
+
+
 
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/Chideraozigbo)
 * ✉️  You can contact me at [chideraozigbo@gmail.com](mailto:chideraozigbo@gmail.com)
-* 🚀  I'm currently working on [Batch and Stream Data Pipeline](http://#)
+* 🚀  I'm currently working on Batch and Stream Data Pipeline
 * 📝  Find my resume here [Resume](https://drive.google.com/file/d/1b-fDufk6m5lZsP_me-5yo4blcRnnsAPP/view?usp=sharing)
 * 🧠  I'm learning Data Warehouse, NOSQL Databases and Cloud Computing
 * 🤝  I'm open to collaborating on Data Engineering Projects
-* 📝  Find my resume here
 * ⚡  A great lover of games and I sing a lot
 
 <a href="https://www.github.com/Chideraozigbo" target="_blank" rel="noreferrer"><img
