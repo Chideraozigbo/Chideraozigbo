@@ -7,7 +7,7 @@ A Data Engineer || Database Designer
 Currently a final year student of Computer Science from the University of Nigeria, Nsukka. With a kink for data and how it helps us make informed decisions.
 
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm"><br>
+<img align="right" alt="Coding" width="400" src="https://ccnyinc.org/wp-content/uploads/2019/12/dataengineerexerciseball-1.gif"><br>
 
 
 
