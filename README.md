@@ -16,7 +16,7 @@ Currently a final year student of Computer Science from the University of Nigeri
 * 🖥️  See my portfolio at [My Portfolio](https://ozigbo-chidera.vercel.app/)
 * ✉️  You can contact me at [chideraozigbo@gmail.com](mailto:chideraozigbo@gmail.com)
 * 🚀  I'm currently working on Batch and Stream Data Pipeline
-* 📝  Find my resume here [Resume](https://drive.google.com/file/d/1b-fDufk6m5lZsP_me-5yo4blcRnnsAPP/view?usp=sharing)
+* 📝  Find my resume here [Resume](https://drive.google.com/file/d/1OS2RoX1Tu3VyY0n1ejpGwBqLYyAH_ez9/view?usp=drivesdk)
 * 🧠  I'm learning Data Warehouse, NOSQL Databases and Cloud Computing
 * 🤝  I'm open to collaborating on Data Engineering Projects
 * ⚡  A great lover of games and I sing a lot
