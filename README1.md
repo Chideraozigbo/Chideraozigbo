@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 class="glitch-text" data-text="Hello, Data World!">Hello, Data World!</h1>
+  <h1 class="glitch-text" data-text="Hello, Data World!">Hello, Data World</h1>
   <h2 class="glitch-text" data-text="I'm Ozigbo Chidera">I'm Ozigbo Chidera</h2>
 </div>
 
