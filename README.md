@@ -1,64 +1,7 @@
 <div align="center">
-  <h1 class="glitch-text" data-text="Hello, Data World!">Hello, Data World</h1>
-  <h2 class="glitch-text" data-text="I'm Ozigbo Chidera">I'm Ozigbo Chidera</h2>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Chidera;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    
 </div>
-
-<style>
-  .glitch-text {
-    font-size: 3em;
-    font-weight: bold;
-    text-transform: uppercase;
-    position: relative;
-    color: #39FF14; /* Neon Green */
-    letter-spacing: 0.1em;
-    animation: glitch 2s infinite alternate-reverse;
-  }
-
-  .glitch-text::before,
-  .glitch-text::after {
-    content: attr(data-text);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-  .glitch-text::before {
-    left: 2px;
-    text-shadow: -2px 0 #39FF14; /* Neon Green */
-    clip: rect(24px, 550px, 90px, 0);
-    animation: glitch-anim 2s infinite linear alternate-reverse;
-  }
-
-  .glitch-text::after {
-    left: -2px;
-    text-shadow: -2px 0 #39FF14; /* Neon Green */
-    clip: rect(85px, 550px, 140px, 0);
-    animation: glitch-anim 2s infinite linear alternate-reverse;
-  }
-
-  @keyframes glitch-anim {
-    0% {
-      clip: rect(86px, 9999px, 82px, 0);
-    }
-    20% {
-      clip: rect(27px, 9999px, 39px, 0);
-    }
-    40% {
-      clip: rect(74px, 9999px, 25px, 0);
-    }
-    60% {
-      clip: rect(54px, 9999px, 98px, 0);
-    }
-    80% {
-      clip: rect(96px, 9999px, 78px, 0);
-    }
-    100% {
-      clip: rect(16px, 9999px, 34px, 0);
-    }
-  }
-</style>
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdzZnhuOXhua29jNnRqMG8weG5jMmw0OXF0aGdvZGg2eHM5ZzRtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fryY00CO4xCz4uJuDQ/giphy-downsized-large.gif" width="300" />
