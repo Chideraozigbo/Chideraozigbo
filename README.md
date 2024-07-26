@@ -108,9 +108,30 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chideraozigbo&show_icons=true&theme=blue-green" alt="GitHub Stats" />
-</div>
-
-<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chideraozigbo&theme=blue_green" alt="Profile Summary Card" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Chideraozigbo&show_icons=true&theme=blue-green" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chideraozigbo&theme=blue-green" alt="GitHub Streak Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chideraozigbo&layout=compact&theme=blue-green" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chideraozigbo&repo=Bitcoin-Crypto-Data-Pipeline&theme=blue-green" alt="Top Viewed Repo" />
+      </td>
+    </tr>
+  </table>
+  <br>
   <img src="https://profile-counter.glitch.me/Chideraozigbo/count.svg" alt="Visitor Count" />
 </div>
+
